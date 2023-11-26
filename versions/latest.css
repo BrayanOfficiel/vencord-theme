@@ -390,7 +390,7 @@ html:root,
 body,
 html {
   text-rendering: optimizeLegibility !important;
-  font-family: "Rubik", sans-serif !important;
+  font-family: "sans-serif", sans-serif !important;
 }
 
 [class*=membersWrap] {
